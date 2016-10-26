@@ -23,4 +23,4 @@ Ce site utilise les technologies et frameworks suivant  :
 ### L'image utilisé pour l'arrière plan du site provient :
 
  * [subtlepatterns](http://subtlepatterns.com/) :
- * [lien image](http://subtlepatterns.com/?s=noisy_grid.png)
+ * [image](http://subtlepatterns.com/?s=noisy_grid.png)
