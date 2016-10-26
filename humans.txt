@@ -1,0 +1,14 @@
+﻿/* TEAM */
+	Web design & CSS: Jauneau Christopher
+	Contact: jauneau.christopher [at] gmail.com
+	From:Le Mans, Pays de la Loire, France
+
+/* THANKS */
+
+
+/* SITE */
+	Created: 2016/10/21
+	Last update: 2016/10/26
+	Language: French
+	Doctype:HTML5
+	IDE: Atom
