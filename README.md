@@ -12,16 +12,15 @@ Ce site utilise les technologies et frameworks suivant  :
 
 *  [openstreetmap](https://www.openstreetmap.org/)
 
-##Les polices utilisées proviennent du site :
+### Les polices utilisées proviennent du site :
   ​
 * [fontsquirrel](https://www.fontsquirrel.com/) :
 
-    1. [Amatic Bold et Regular](https://www.fontsquirrel.com/fonts/amatic)
+    * [Amatic Bold et Regular](https://www.fontsquirrel.com/fonts/amatic)
 
-    2. [Roboto Regular et Italic ](https://www.fontsquirrel.com/fonts/roboto?q%5Bterm%5D=roboto&q%5Bsearch_check%5D=Y)
+    * [Roboto Regular et Italic ](https://www.fontsquirrel.com/fonts/roboto?q%5Bterm%5D=roboto&q%5Bsearch_check%5D=Y)
 
- ##L'image utilisé pour l'arrière plan du site provient :
-
+ ### L'image utilisé pour l'arrière plan du site provient :
+ 
  * [subtlepatterns](http://subtlepatterns.com/) :
-
  * [lien image](http://subtlepatterns.com/?s=noisy_grid.png)
