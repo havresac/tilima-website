@@ -28,4 +28,9 @@ Ce site utilise les technologies et frameworks suivant  :
 ## Capture d'écran du site
 
  ![TILIMA](Capture/TILIMA.png)
+ 
+## Adresse de test de la proposition de maquette :
+
+http://havresac.net/tilima/
+
 
