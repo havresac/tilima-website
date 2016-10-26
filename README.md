@@ -25,12 +25,13 @@ Ce site utilise les technologies et frameworks suivant  :
 * [subtlepatterns](http://subtlepatterns.com/) :
 * [image](http://subtlepatterns.com/?s=noisy_grid.png)
 
+### Adresse de dev/présentation :
+
+http://havresac.net/tilima/
+
 ## Capture d'écran du site
 
  ![TILIMA](Capture/TILIMA.png)
  
-## Adresse de test de la proposition de maquette :
-
-http://havresac.net/tilima/
 
 
