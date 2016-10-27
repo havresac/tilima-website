@@ -1,6 +1,8 @@
 //** Background image for `body`.
 body {
-    background : (image-url("noisy_grid.png") left top);
+    // Doesn't work
+    // background: (image-url("bg.png") center top);
+    background: url("../img/bg.png") center top;
   }
 
   /* line 24, ../../../../../../usr/local/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_type.scss */
@@ -48,6 +50,7 @@ body {
       margin-right: -90px;
       margin-bottom: -20px;
       padding: 21px 45px 21px 45px;
+      background-color: $jumbotron-bg;
         h1 {
             font-family: $font-title;
             font-size: $font-size-jumbotron-h1;
@@ -69,8 +72,8 @@ body {
         }
     }
 
-    #map {
-          padding-left: 0px;
+    .col-lg-6 {
+          padding-right: 0;
     }
 
     footer {
