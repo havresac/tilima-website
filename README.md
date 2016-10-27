@@ -20,12 +20,18 @@ Ce site utilise les technologies et frameworks suivant  :
 
     * [Roboto Regular et Italic ](https://www.fontsquirrel.com/fonts/roboto?q%5Bterm%5D=roboto&q%5Bsearch_check%5D=Y)
 
-### L'image utilisé pour l'arrière plan du site provient :
+### L'image utilisé pour l'arrière plan du site provient du site :
 
-* [subtlepatterns](http://subtlepatterns.com/) :
-* [image](http://subtlepatterns.com/?s=noisy_grid.png)
+* [subtlepatterns](http://subtlepatterns.com/)
+   * [image](http://subtlepatterns.com/?s=noisy_grid.png)
+
+### Adresse de "dev/présentation" :
+
+http://havresac.net/tilima/
 
 ## Capture d'écran du site
 
  ![TILIMA](Capture/TILIMA.png)
+ 
+
 
